@@ -1,5 +1,5 @@
 # Twitter Side-bar with React
-##Hi,
+## `Hi,`
 i created my first React app that is the twitter sidebar
 
 
